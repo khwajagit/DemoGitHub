@@ -10,7 +10,7 @@ namespace DemoApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hello commit");
+            Console.WriteLine("hello commit done");
         }
     }
 }
